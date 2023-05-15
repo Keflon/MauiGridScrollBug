@@ -1,6 +1,7 @@
 # iOS bug. 
 
 ## Auto-sized Grid row containing ScrollView sizes itself to the full height requested by the ScrollView content.
+MAUI bug [#15085](https://github.com/dotnet/maui/issues/15085)
 
 Given the following xaml:
 ```xaml
